@@ -34,12 +34,30 @@
 # print from 1 to 10 using while loop.
 # factorial ko while loop se banao.
 
-num = int(input("Enter a number "))
-a = 1
-fact = 1
+# num = int(input("Enter a number "))
+# a = 1
+# fact = 1
 
-while(a<=num):
-    fact *= a
-    a+=1
+# while(a<=num):
+#     fact *= a
+#     a+=1
     
-print(fact)
+# print(fact)
+
+# Find the sum of numbers from 1 to 100.
+
+# result = 0
+# for i in range(1,101):
+#     result += i # result = result + i 
+#     print(result)
+
+
+# using while loop 
+
+# res = 0
+# a = 1
+
+# while (a <= 100):
+#     res += a
+#     a+=1
+# print(res)
