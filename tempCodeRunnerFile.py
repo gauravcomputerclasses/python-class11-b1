@@ -1,1 +1,1 @@
-7
+(waterConsumed - 300) * 5
